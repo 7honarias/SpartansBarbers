@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpartansBarbers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="address_bullet">\u2022 Dirección: </string>
+    <string name="time_bullet">\u2022 Hora: </string>
+    <string name="bullet">\u2022</string>
+    <string name="stylelist_bullet">\u2022 Estilista: </string>
+</resources>
